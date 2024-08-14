@@ -1,0 +1,32 @@
+.blog-posts {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.blog-post-preview {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.blog-post-preview h2 {
+  margin-bottom: 0.5rem;
+}
+
+.blog-post-preview a {
+  color: #333;
+  text-decoration: none;
+}
+
+.blog-post-preview a:hover {
+  text-decoration: underline;
+}
+
+.error-message {
+  color: #721c24;
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+  padding: 1rem;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
